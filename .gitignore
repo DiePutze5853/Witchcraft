@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local data & weights (from Phase 5)
+data/
+checkpoints/
+*.glb
