@@ -1,4 +1,3 @@
-Here is the cleaned and properly formatted Markdown layout. All copy-paste artifacts (duplicated math expressions, fragmented LaTeX symbols, web citation tags, and UI labels like `code Bash`) have been resolved into clean Markdown and standard LaTeX math syntax:
 
 ---
 
